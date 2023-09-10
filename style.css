@@ -9,3 +9,8 @@
 .pl, .pr{
     cursor: pointer;
 }
+
+.selector{
+    background: black;
+    color: white;
+}
