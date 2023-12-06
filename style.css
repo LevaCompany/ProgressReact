@@ -6,7 +6,7 @@
 .animate > id{
     --animate-id: 5325;
 }
-.pl, .pr{
+.pl, .pr, .secret{
     cursor: pointer;
 }
 
