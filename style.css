@@ -18,3 +18,8 @@
 .window{
     background: gray;
 }
+
+.progress-bar{
+    background: #d7dbdd;
+    color: #4169e1;
+}
